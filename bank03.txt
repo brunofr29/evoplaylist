@@ -1,8 +1,8 @@
-Breiz Izel              Bank 3 Stacja 1                 http://direct.francebleu.fr/live/fbbreizizel-midfi.mp3
-Couleurs JAZZ           Bank 3 Stacja 2                 http://listen.radioking.com/radio/127546/stream/167344
-Jazz De Ville           Bank 3 Stacja 3                 http://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
-Radio Rennes            Bank 3 Stacja 4                 http://stream4.vestaradio.com/RADIORENNES
-New Morning Radio       Bank 3 Stacja 5                 https://www.radioking.fr/play/new-morning-radio
+Radio Univers           Bank 3 Stacja 1                 https://stream4.vestaradio.com/RadioUnivers
+Radio Eure du Blues     Bank 3 Stacja 2                 http://euredublues.ddns.net:8000/euredublues.ogg
+Radio44                 Bank 3 Stacja 3                 http://eu.publicssl.net:7020/
+Le village pop          Bank 3 Stacja 4                 https://listen.radioking.com/radio/200437/stream/243028
+Dire Straits            Bank 3 Stacja 5                 https://stream.pcradio.ru/dire_straits-hi
 SuperStereo 7 Jazz      Bank 3 Stacja 6                 http://icecast.centaury.cl:7550/SuperStereo7
 BesideFM                Bank 3 Stacja 7                 http://5.128.138.8:8000/aac
 ZEBRadio                Bank 3 Stacja 8                 http://zebradio.fr:8000/player.mp3
