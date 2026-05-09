@@ -1,0 +1,31 @@
+Breiz Izel              Bank 3 Stacja 1                 http://direct.francebleu.fr/live/fbbreizizel-midfi.mp3
+Couleurs JAZZ           Bank 3 Stacja 2                 http://listen.radioking.com/radio/127546/stream/167344
+Jazz De Ville           Bank 3 Stacja 3                 http://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
+Radio Rennes            Bank 3 Stacja 4                 http://stream4.vestaradio.com/RADIORENNES
+New Morning Radio       Bank 3 Stacja 5                 https://www.radioking.fr/play/new-morning-radio
+SuperStereo 7 Jazz      Bank 3 Stacja 6                 http://icecast.centaury.cl:7550/SuperStereo7
+BesideFM                Bank 3 Stacja 7                 http://5.128.138.8:8000/aac
+ZEBRadio                Bank 3 Stacja 8                 http://zebradio.fr:8000/player.mp3
+Radio Bro Gwened        Bank 3 Stacja 9                 http://stream.radiobreizh.bzh/radio/9050/radio.mp3
+JB Radio                Bank 3 Stacja 10                https://jb-radio.stream.laut.fm/jb-radio
+Radio Kreiz Breizh      Bank 3 Stacja 11                https://stream.radiobreizh.bzh/radio/9060/radio.mp3
+Avorig FM               Bank 3 Stacja 12                https://stream.radios.bzh/listen/arvorig/radio.mp3?_=1
+Radio Kerne             Bank 3 Stacja 13                https://stream.radios.bzh/listen/kerne/radio.mp3
+Radio Naoned            Bank 3 Stacja 14                http://stream.radios.bzh/listen/naoned/radio.mp3
+Canal Breizh            Bank 3 Stacja 15                http://cast.canalbreizh.bzh/canalbreizh-hd-mp3
+PlumFM                  Bank 3 Stacja 16                https://stream.radios.bzh/listen/plumfm/radio.mp3
+Radio BOA               Bank 3 Stacja 17                https://stream.radios.bzh/listen/boa/radio.mp3
+Radio Balise            Bank 3 Stacja 18                https://stream.radios.bzh/listen/radiobalises/radio.mp3
+Radio Activ             Bank 3 Stacja 19                https://stream.radios.bzh/listen/radioactiv/radio.mp3
+Timbre FM               Bank 3 Stacja 20                https://stream.radios.bzh/listen/timbrefm/radio.mp3
+Radio Laser             Bank 3 Stacja 21                https://stream.radios.bzh/listen/radiolaser/radio.mp3
+Radio Transistoch       Bank 3 Stacja 22                https://www.transistoch.bzh/streaming/;type=mp3
+Quartier des Ondes      Bank 3 Stacja 23                https://listen.radioking.com/radio/204025/stream/246766
+AlternanteFm            Bank 3 Stacja 24                https://diffusion.lafrap.fr/alternantes.mp3
+Radio Libertaire        Bank 3 Stacja 25                http://media.radio-libertaire.org:8080/radiolib.mp3
+Bretagne5               Bank 3 Stacja 26                http://bretagne5ing.streamakaci.com/bretagne5.mp3
+Radio Paradise          Bank 3 Stacja 27                https://stream.radioparadise.com/rock-flac
+Djam Radio              Bank 3 Stacja 28                https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
+Le Poste Parisien       Bank 3 Stacja 29                https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio
+Djam Radio AAC          Bank 3 Stacja 30                https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
+Le Bon Mix              Bank 3 Stacja 31                https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
